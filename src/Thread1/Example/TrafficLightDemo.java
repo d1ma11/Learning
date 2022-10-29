@@ -1,4 +1,4 @@
-package Example;
+package Thread1.Example;
 
 public class TrafficLightDemo {
     public static void main(String[] args) {

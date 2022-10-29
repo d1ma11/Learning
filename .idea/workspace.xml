@@ -1,33 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf18232-1cb4-4baa-a0e3-0ef9a30b7abc" name="Changes" comment="" />
+    <list default="true" id="dbf18232-1cb4-4baa-a0e3-0ef9a30b7abc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcpetionHandling/ExcDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcpetionHandling/ExcDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcpetionHandling/ExcDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcpetionHandling/ExcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcpetionHandling/NestTries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Finally/UseFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/NumericFns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Queue/GenQDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Queue/GenQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Queue/IGenQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Queue/QueueExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/UseBoundedWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/ArrayLambdaParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/MyIntPredicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/MyParamValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/VarCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiCatch/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/DynQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/FixedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/ICharQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/IQDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/Example/TrafficLightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/Example/TrafficLightSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/MyThreadManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/MyThread_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/SumArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread1/UseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadOrganization/TickTock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Throw/ExcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Throw/ReThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Throw/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Throws/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DLbEE3JkajRLhjvb8pBv2LzdBS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Yndx/JavaProjects/Learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="WildcardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.WildcardDemo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WildcardDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf18232-1cb4-4baa-a0e3-0ef9a30b7abc" name="Changes" comment="" />
       <created>1660481207840</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660481207840</updated>
+      <workItem from="1660481219897" duration="702000" />
+      <workItem from="1661590466492" duration="789000" />
+      <workItem from="1662487778373" duration="492000" />
+      <workItem from="1664111050648" duration="11000" />
+      <workItem from="1664215684773" duration="11805000" />
+      <workItem from="1664269265728" duration="5055000" />
+      <workItem from="1664570075260" duration="5421000" />
+      <workItem from="1664619776137" duration="49000" />
+      <workItem from="1664808870066" duration="7544000" />
+      <workItem from="1664823144438" duration="18761000" />
+      <workItem from="1665082986116" duration="6485000" />
+      <workItem from="1665248647204" duration="127000" />
+      <workItem from="1665248964248" duration="4365000" />
+      <workItem from="1665261968411" duration="1194000" />
+      <workItem from="1665310883672" duration="9924000" />
+      <workItem from="1665343812259" duration="1189000" />
+      <workItem from="1665412107468" duration="1922000" />
+      <workItem from="1665939571410" duration="6633000" />
+      <workItem from="1666191256523" duration="10830000" />
+      <workItem from="1666436294493" duration="2973000" />
+      <workItem from="1666446399509" duration="669000" />
+      <workItem from="1666527015406" duration="1740000" />
+      <workItem from="1666948751954" duration="1636000" />
+      <workItem from="1666950442326" duration="6345000" />
+      <workItem from="1667061089177" duration="593000" />
+      <workItem from="1667064993431" duration="1871000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Queue/IQDemo.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ThreadOrganization/TickTock.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

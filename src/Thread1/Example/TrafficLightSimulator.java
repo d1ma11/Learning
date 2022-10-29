@@ -1,9 +1,19 @@
-package Example;// Имитация автоматизированного светофора с использованием
+package Thread1.Example;// Имитация автоматизированного светофора с использованием
 // перечисления
 
 // Цвета светофора
 enum TrafficLightColor {
-    RED, GREEN, YELLOW
+    RED(12_000),
+    GREEN(10_000),
+    YELLOW(2_000);
+
+    private final int delay;
+
+    TrafficLightColor(int delay) {
+        this.delay = delay;
+    }
+
+    int getDelay() {return delay;}
 }
 
 // Имитация автоматизированного светофора
@@ -32,11 +42,7 @@ public class TrafficLightSimulator implements Runnable{
     public void run() {
         while(!stop) {
             try {
-                switch (tlc) {
-                    case GREEN -> Thread.sleep(10000);
-                    case YELLOW -> Thread.sleep(2000);
-                    case RED -> Thread.sleep(12000);
-                }
+                Thread.sleep(tlc.getDelay());
             } catch (InterruptedException exc) {
                 System.out.println(exc);
             }
